@@ -1,6 +1,6 @@
 TITLE : (temp) Music recommendation app
 
-This app is made for ericsson hackathon 2017
+This app is made for company hackathon 2017
 
 Works with 
 - Google NLP api 
