@@ -22,3 +22,13 @@ How it works?
 
 
 Installation
+1. Need to get google api authentication key. Follow the instructions on
+   https://cloud.google.com/natural-language/docs/getting-started
+2. ~/myflask$ python f5_memo.py
+
+
+Current Issue
+- Make better web UI 
+- Show youtube clip on the same page.
+- Connect MongoDB & save information.
+
